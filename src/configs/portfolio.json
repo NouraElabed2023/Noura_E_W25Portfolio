@@ -1,0 +1,71 @@
+{
+  "name": "NOURA ELABED",
+  "bio": "I'm a passionate software developer with 3 years of experience and a diverse background in mobile development, full-stack web development, and game development. For me, software engineering is a passion and not just a profession. It's a commitment to continuous learning, innovation, and the pursuit of excellence.",
+  "contacts": {
+    "phone": "+1 437-667-6457",
+    "email": "nouraelabed92@gmail.com",
+    "github": "https://github.com/NouraElabed2023",
+    "twitter": "https://x.com/your-username",
+    "telegram": "https://t.me/your-username",
+    "discord": "your-username",
+    "linkedin": "https://linkedin.com/in/your-username"
+  },
+  "education": {
+    "logo": "https://picsum.photos/id/231/300/300",
+    "degree": "Computer Programming & Analysis",
+    "university": "George Brown College",
+    "location": "Location",
+    "graduation": "2025/05/01 00:00:00",
+    "courseWork": [
+      "Algorithms"
+    ],
+    "project": "Your senior project"
+  },
+  "meetingLink": "https://meet.google.com",
+  "skills": {
+    "languages": [
+      "JavaScript"
+    ],
+    "frameworks": [
+      "React",
+      "Next.js"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Capstone Project",
+      "link": "https://project1.link",
+      "logo": "https://picsum.photos/id/232/300/300",
+      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "skills": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "from": 1394998683000,
+      "to": 1489693083000,
+      "company": "Via Center Clinic",
+      "role": "Office administrator",
+      "descriptions": [
+        "Processed development proposals and other administrative documents, ensuring compliance with internal procedures and relevant legislation, while maintaining strong verbal communication and customer service with ministry staff.",
+        "Applied organizational and time-management skills to prioritize and coordinate office tasks, ensuring competing deadlines were met in a dynamic environment.",
+        "Demonstrated proficiency in Microsoft Office (Word, Excel, PowerPoint), using these tools to prepare reports, update files, and manage electronic records, ensuring data accuracy and integrity."
+      ]
+    },
+    {
+      "from": 1300304283000,
+      "to": 1394998683000,
+      "company": "Kadoon Center",
+      "role": "Clinic Manager",
+      "descriptions": [
+        "Streamlined clinic operations, improving efficiency and workflow while mentoring new staff and ensuring adherence to healthcare policies and procedures.",
+        "Fostered strong relationships with both internal healthcare teams and external stakeholders, ensuring clear communication and effective solutions for patient care.",
+        "Developed and implemented innovative strategies to optimize clinic performance, consistently surpassing patient service and appointment scheduling targets."
+      ]
+    }
+  ]
+}
